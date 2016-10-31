@@ -6,4 +6,8 @@ test4
 =======
 test5
 test6
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+7777
 >>>>>>> origin/master
